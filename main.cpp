@@ -4,7 +4,7 @@
 
 int main(int argc, char** argv) {
     const int count = 10000000;     
-    const int threads = 16;         
+    const int threads = 8;         
     const int random_seed = 920215; 
 
     int* array = 0;                
